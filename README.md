@@ -1,4 +1,4 @@
-# dsutils
+# ds-utils
 Data science utils.
 
 ## Setup
