@@ -3,6 +3,7 @@ gdown
 gym
 jupyter
 jupyterlab
+kaggle
 numpy
 matplotlib
 pandas
