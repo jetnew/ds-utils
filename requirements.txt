@@ -1,4 +1,5 @@
 altair
+fastai
 gdown
 gym
 jupyter
